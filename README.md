@@ -1,2 +1,1 @@
-# Project-1
-My first project on GitHub
+# JustAriel.Project-1
